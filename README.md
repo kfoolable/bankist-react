@@ -4,7 +4,7 @@
 
 To try the app, log in with these credentials with mock users:
 
-1. Jonas SChmedtmann
+1. Jonas Schmedtmann
 
 - username: js
 - password: 1111
