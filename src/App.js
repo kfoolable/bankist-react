@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import Nav from "./components/Nav";
 import Main from "./components/Main";
 
+alert("Log in with mock user: js and pin: 1111");
+
 const account1 = {
   owner: "Jonas Schmedtmann",
   movements: [200, 450, -400, 3000, -650, -130, 70, 1300],

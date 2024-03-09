@@ -23,6 +23,7 @@ export default function Main({
 
   function handleSetMov(movement) {
     setUserMov((mov) => [...mov, movement]);
+    console.log(movement);
   }
 
   function handleTimerExpire() {
